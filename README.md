@@ -1,2 +1,6 @@
 # test
-hello,world,测试
+#define <stdio.h>
+void main(){
+printf:("hello,world!")
+}
+return 0;
